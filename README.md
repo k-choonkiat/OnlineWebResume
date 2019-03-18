@@ -1,2 +1,0 @@
-# OnlineWebResume
-Created with CodeSandbox
